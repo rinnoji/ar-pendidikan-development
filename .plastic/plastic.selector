@@ -1,0 +1,4 @@
+repository "AR Disaster Simulator/AR Disaster Simulator@18968335361574@cloud"
+  path "/"
+    br "/main"
+    co "/main"
