@@ -6,11 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/MenuScene.unity
+    guid: 5c622dc49de5431448eeef15750bb347
   - enabled: 1
     path: Assets/GameScene.unity
     guid: 24b95969e4de58c4ca64d2c630e8b1f3
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Banjir.unity
+    guid: c9c14a43e0df2564a9aeaf45991ca92f
+  - enabled: 1
+    path: Assets/Kebakaran.unity
+    guid: 043c084ed0000f344b4970614efe6a2e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6fe3eb44ec116104a80906c11a0ee4d9, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
